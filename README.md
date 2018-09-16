@@ -11,3 +11,8 @@ Use CSS3 to create visually attractive buttons of all different shapes, sizes an
 Use CSS3 to create visually attractive typography and cool text effects!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l02.PNG)  
   
+- Day#03: Clipping Images with Shapes  
+Use CSS3 to "clip" the following images with different shapes!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l03.png)  
+  
+  
