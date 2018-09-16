@@ -15,4 +15,7 @@ Use CSS3 to create visually attractive typography and cool text effects!
 Use CSS3 to "clip" the following images with different shapes!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l03.png)  
   
-  
+- Day#04: Sexy Registration Form  
+Use CSS to style the following web form into something visually attractive with a great user experience!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l04.png)  
+
