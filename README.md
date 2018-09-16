@@ -19,3 +19,8 @@ Use CSS3 to "clip" the following images with different shapes!
 Use CSS to style the following web form into something visually attractive with a great user experience!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l04.png)  
 
+- Day#05: Useful Broken Images  
+Whether it's a typo in the <code>img</code> tag source, or the image itself was misplaced or removed on the server - images break all the time on the web. The problem is, the browsers default way to display a broken image is really ugly. You can fix that and actually use it as an opportunity to enhance the user's experience on your web pages with CSS! That's your challenge in this lesson.  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l05.png)  
+  
+  
