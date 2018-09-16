@@ -26,6 +26,7 @@ const lessons = {
                     '02' : 'Sexy Typography',
                     '03' : 'Clipping Images',
                     '04' : 'Sexy Registration Form',
+                    '05' : 'Useful Broken Images'
 
                   }
 
