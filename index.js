@@ -28,6 +28,7 @@ const lessons = {
                     '04' : 'Sexy Registration Form',
                     '05' : 'Useful Broken Images',
                     '06' : 'Print Specific Styles',
+                    '07' : 'Image Manipulation',
 
                   }
 
