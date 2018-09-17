@@ -31,3 +31,6 @@ Use CSS to create a "print" stylesheet. Style this page to look best on paper!
 Use CSS3 filters to manipulate the below images.  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l07.png)  
 
+- Day#08: 8-bit Mario  
+Combine CSS box shadows and absolute positioning to "draw" an 8-bit style Mario!
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l08.png)  

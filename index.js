@@ -29,6 +29,7 @@ const lessons = {
                     '05' : 'Useful Broken Images',
                     '06' : 'Print Specific Styles',
                     '07' : 'Image Manipulation',
+                    '08' : '8-bit Mario',
 
                   }
 
