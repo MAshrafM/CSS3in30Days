@@ -27,3 +27,7 @@ Whether it's a typo in the <code>img</code> tag source, or the image itself was 
 Use CSS to create a "print" stylesheet. Style this page to look best on paper!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l06.png)  
 
+- Day#07: Image Manipulation  
+Use CSS3 filters to manipulate the below images.  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l07.png)  
+
