@@ -31,6 +31,7 @@ const lessons = {
                     '07' : 'Image Manipulation',
                     '08' : '8-bit Mario',
                     '09' : 'Modern Layouts',
+                    '10' : 'Pricing Table',
 
                   }
 
