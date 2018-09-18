@@ -36,6 +36,10 @@ Combine CSS box shadows and absolute positioning to "draw" an 8-bit style Mario!
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l08.png)  
 
 - Day#09: Modern Layouts.  
-Using CSS, style the following sections to be modern layouts.
+Using CSS, style the following sections to be modern layouts.  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l09.png)  
+
+- Day#10: Pricing Table.  
+Style the following pricing table into a modern and attractive layout using CSS3.  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l10.png)  
 
