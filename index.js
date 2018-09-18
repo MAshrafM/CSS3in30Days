@@ -30,6 +30,7 @@ const lessons = {
                     '06' : 'Print Specific Styles',
                     '07' : 'Image Manipulation',
                     '08' : '8-bit Mario',
+                    '09' : 'Modern Layouts',
 
                   }
 
