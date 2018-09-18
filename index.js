@@ -32,6 +32,7 @@ const lessons = {
                     '08' : '8-bit Mario',
                     '09' : 'Modern Layouts',
                     '10' : 'Pricing Table',
+                    '11' : 'Internet Explorer Hacks',
 
                   }
 
