@@ -33,6 +33,7 @@ const lessons = {
                     '09' : 'Modern Layouts',
                     '10' : 'Pricing Table',
                     '11' : 'Internet Explorer Hacks',
+                    '12' : 'CSS Variables',
 
                   }
 
