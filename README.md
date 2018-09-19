@@ -46,3 +46,6 @@ Style the following pricing table into a modern and attractive layout using CSS3
 - Day#11: Internet Explorer Hacks  
 Ugh, yes, Internet Explorer is still a thing. Luckily, with CSS, you can bend it to your will, or just straight up give it the Vulcan Death Grip.  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l11.png)            
+- Day#12: CSS Variables  
+Play around with CSS variables!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l12.png)  
