@@ -53,3 +53,7 @@ Play around with CSS variables!
 - Day#13: Sticky Footer  
 Stick a footer to the bottom of the page.  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l13.png)  
+  
+- Day#14: Sticky Header  
+Stick a heaader to the top of the page.  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l14.png)  
