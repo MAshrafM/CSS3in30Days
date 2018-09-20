@@ -36,6 +36,7 @@ const lessons = {
                     '12' : 'CSS Variables',
                     '13' : 'Sticky Footer',
                     '14' : 'Sticky Header',
+                    '15' : 'Sticky Sidebar',
 
                   }
 
