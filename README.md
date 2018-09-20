@@ -49,3 +49,7 @@ Ugh, yes, Internet Explorer is still a thing. Luckily, with CSS, you can bend it
 - Day#12: CSS Variables  
 Play around with CSS variables!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l12.png)  
+
+- Day#13: Sticky Footer  
+Stick a footer to the bottom of the page.  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l13.png)  

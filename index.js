@@ -34,6 +34,7 @@ const lessons = {
                     '10' : 'Pricing Table',
                     '11' : 'Internet Explorer Hacks',
                     '12' : 'CSS Variables',
+                    '13' : 'Sticky Footer',
 
                   }
 
