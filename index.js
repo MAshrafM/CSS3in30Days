@@ -38,6 +38,7 @@ const lessons = {
                     '14' : 'Sticky Header',
                     '15' : 'Sticky Sidebar',
                     '16' : 'Modal Window',
+                    '17' : 'Pacman',
 
                   }
 
