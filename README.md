@@ -66,4 +66,6 @@ Stick a sidebar to the right of the page.
 Create an accessible modal window with just CSS and CSS3!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l16.png)  
   
-  
+- Day#17: Pacman  
+Create a simple animation of Pacman chomping and chasing a ghost along this container element!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l17.png)  
