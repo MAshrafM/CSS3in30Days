@@ -69,3 +69,7 @@ Create an accessible modal window with just CSS and CSS3!
 - Day#17: Pacman  
 Create a simple animation of Pacman chomping and chasing a ghost along this container element!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l17.png)  
+
+- Day#18: Tooltips  
+Create CSS only tooltips when you hover over the elements below!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l18.png)  
