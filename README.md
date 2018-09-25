@@ -73,3 +73,7 @@ Create a simple animation of Pacman chomping and chasing a ghost along this cont
 - Day#18: Tooltips  
 Create CSS only tooltips when you hover over the elements below!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l18.png)  
+
+- Day#19: Progress Bars  
+Create CSS only progress bars that animate below!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l19.png)  
