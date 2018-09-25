@@ -39,7 +39,8 @@ const lessons = {
                     '15' : 'Sticky Sidebar',
                     '16' : 'Modal Window',
                     '17' : 'Pacman',
-                    '18' : 'Tooltips'
+                    '18' : 'Tooltips',
+                    '19' : 'Progress Bar'
 
                   }
 
