@@ -40,7 +40,8 @@ const lessons = {
                     '16' : 'Modal Window',
                     '17' : 'Pacman',
                     '18' : 'Tooltips',
-                    '19' : 'Progress Bar'
+                    '19' : 'Progress Bar',
+                    '20' : 'Animated Pyramid',
 
                   }
 
