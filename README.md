@@ -77,3 +77,7 @@ Create CSS only tooltips when you hover over the elements below!
 - Day#19: Progress Bars  
 Create CSS only progress bars that animate below!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l19.png)  
+
+- Day#20: Animated Pyramid  
+Create a small triangle that, once hovered over, animates into a pyramid comprised of several shapes! Hint: use CSS3 clip path ;)  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l20.png) 
