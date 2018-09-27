@@ -42,6 +42,7 @@ const lessons = {
                     '18' : 'Tooltips',
                     '19' : 'Progress Bar',
                     '20' : 'Animated Pyramid',
+                    '21' : 'Spinners'
 
                   }
 
