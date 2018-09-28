@@ -85,3 +85,7 @@ Create a small triangle that, once hovered over, animates into a pyramid compris
 - Day#21: Spinners
 Create CSS only spinners that animate below!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l21.png)  
+
+- Day#22: Flexbox Layouts  
+Create modern layouts with Flexbox!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l22.png)  
