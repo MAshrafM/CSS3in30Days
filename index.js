@@ -43,7 +43,8 @@ const lessons = {
                     '19' : 'Progress Bar',
                     '20' : 'Animated Pyramid',
                     '21' : 'Spinners',
-                    '22' : 'Flexbox Layouts'
+                    '22' : 'Flexbox Layouts',
+                    '23' : 'Accordions',
 
                   }
 
