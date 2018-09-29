@@ -89,3 +89,7 @@ Create CSS only spinners that animate below!
 - Day#22: Flexbox Layouts  
 Create modern layouts with Flexbox!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l22.png)  
+
+- Day#23: Accordions  
+Create an information accordion with only CSS3!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l23.png)  
