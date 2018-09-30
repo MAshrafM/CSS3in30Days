@@ -93,3 +93,7 @@ Create modern layouts with Flexbox!
 - Day#23: Accordions  
 Create an information accordion with only CSS3!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l23.png)  
+
+- Day#24: Support Rule  
+A simple rule to check if a browser can render specific CSS properties!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l24.png)  
