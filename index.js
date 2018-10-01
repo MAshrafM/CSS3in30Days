@@ -45,7 +45,8 @@ const lessons = {
                     '21' : 'Spinners',
                     '22' : 'Flexbox Layouts',
                     '23' : 'Accordions',
-                    '24' : 'Support Rule'
+                    '24' : 'Support Rule',
+                    '25' : 'Sliding Panels'
 
                   }
 
