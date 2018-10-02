@@ -101,3 +101,7 @@ A simple rule to check if a browser can render specific CSS properties!
 - Day#25: Sliding Panel  
 Create sliding content panels with CSS3!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l25.png)  
+
+- Day#26: 3D Layers  
+Create a 3D layer effect with CSS3!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l26.png)  
