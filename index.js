@@ -47,7 +47,8 @@ const lessons = {
                     '23' : 'Accordions',
                     '24' : 'Support Rule',
                     '25' : 'Sliding Panels',
-                    '26' : '3D Layers'
+                    '26' : '3D Layers',
+                    '27' : 'Dropdown Menu',
 
                   }
 
