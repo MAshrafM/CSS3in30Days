@@ -49,6 +49,7 @@ const lessons = {
                     '25' : 'Sliding Panels',
                     '26' : '3D Layers',
                     '27' : 'Dropdown Menu',
+                    '28' : 'Optimizing Your CSS'
 
                   }
 
