@@ -50,6 +50,7 @@ const lessons = {
                     '26' : '3D Layers',
                     '27' : 'Dropdown Menu',
                     '28' : 'Optimizing Your CSS'
+                    '29' : 'Blurry Effect'
 
                   }
 
