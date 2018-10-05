@@ -110,4 +110,8 @@ Create a 3D layer effect with CSS3!
 Create a simple Dropdown Menu with CSS!  
 ![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l27.png)  
 
-- Day#28: Optimizing Your CSS
+- Day#28: Optimizing Your CSS  
+  
+- Day#29: Blurry Effect  
+Create a blurred depth of field effect with CSS3!  
+![view](https://github.com/MAshrafM/CSS3in30Days/blob/master/showcase/l29.png)  
